@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-blog-pwa/static/css/main.9475811b.css",
-    "main.js": "/react-blog-pwa/static/js/main.2b4457cf.js",
+    "main.css": "/react-blog-pwa/static/css/main.fac26e2b.css",
+    "main.js": "/react-blog-pwa/static/js/main.00815520.js",
     "static/js/787.1f14e1ee.chunk.js": "/react-blog-pwa/static/js/787.1f14e1ee.chunk.js",
     "service-worker.js": "/react-blog-pwa/service-worker.js",
     "index.html": "/react-blog-pwa/index.html",
-    "main.9475811b.css.map": "/react-blog-pwa/static/css/main.9475811b.css.map",
-    "main.2b4457cf.js.map": "/react-blog-pwa/static/js/main.2b4457cf.js.map",
+    "main.fac26e2b.css.map": "/react-blog-pwa/static/css/main.fac26e2b.css.map",
+    "main.00815520.js.map": "/react-blog-pwa/static/js/main.00815520.js.map",
     "787.1f14e1ee.chunk.js.map": "/react-blog-pwa/static/js/787.1f14e1ee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9475811b.css",
-    "static/js/main.2b4457cf.js"
+    "static/css/main.fac26e2b.css",
+    "static/js/main.00815520.js"
   ]
 }
